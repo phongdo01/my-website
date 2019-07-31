@@ -1,0 +1,22 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#menu {
+	padding-right: 100px;
+	height: 105px;
+	padding-top: 25px;
+	font-size: 20px;
+}
+#menu a {
+	color: chocolate;
+	font-family: arial;
+}
+.bachkhoa {
+	background-image: url("./images/bachkhoa.jpg");
+	background-size: cover;
+	height: 900px;
+}
+#anh img {
+    border-radius: 60%;
+}
