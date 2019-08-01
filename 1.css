@@ -2,21 +2,32 @@
 	margin: 0px;
 	padding: 0px;
 }
+
+.body {
+	position: relative;
+}
+
 #menu {
 	padding-right: 100px;
-	height: 105px;
-	padding-top: 25px;
+	height: 80px;
+	padding-top: 20px;
 	font-size: 20px;
+	width: 100%;
+	position: fixed;
+	z-index: 9999;
 }
 #menu a {
 	color: chocolate;
 	font-family: arial;
 }
+
 .bachkhoa {
 	background-image: url("./images/bachkhoa.jpg");
-	background-size: cover;
+	background-repeat: no-repeat;
 	height: 900px;
+	background-size: cover;
 }
+
 #anh img {
     border-radius: 60%;
 }
