@@ -31,3 +31,14 @@
 #anh img {
     border-radius: 60%;
 }
+
+.col-sm-6.honor td {
+    padding-left: 12px;
+}
+
+.col-sm-8.skill td {
+    padding-left: 10px;
+}
+.col-sm-6.activity td {
+    padding-left: 10px;
+}
